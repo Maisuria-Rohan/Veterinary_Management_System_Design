@@ -4,15 +4,14 @@ This project presents the full analysis and design of a Veterinary Information a
 
 The goal was to design an integrated system that reduces manual errors, improves efficiency, and supports secure data management.
 
-**Problem**
-The clinic relied on spreadsheets, manual scheduling, and disconnected systems. This created:
+**Problem**:
+The clinic relied on spreadsheets, manual scheduling, and disconnected systems. 
+This created:
  - Medical record inconsistencies
  - Missed or double-booked appointments
  - Manual billing errors
  - Poor inventory tracking
  - Limited data accessibility
-
-These issues are clearly described in the system requirements document and the interview findings.
 
 **Solution**
 The proposed VIMS system centralizes:
@@ -22,8 +21,6 @@ The proposed VIMS system centralizes:
  - Inventory management
  - Customer communication
 
-System requirements are formally documented in the Software Requirements Specification.
-
 **Key Features Designed**
  - Role-based access for Staff, Vet, and Pet Owner
  - Centralized pet medical record management
@@ -32,10 +29,7 @@ System requirements are formally documented in the Software Requirements Specifi
  - Real-time inventory tracking with low-stock alerts
  - Secure authentication and data validation
 
-Functional and non-functional requirements are defined in detail in the SRS document.
-
 **System Architecture and Design**
-
 **Use Case Diagram**
 Actors:
  - Pet Owner
@@ -49,8 +43,6 @@ Main Use Cases:
  - Bill Customer
  - Customer Communication
 
-The use case relationships and extensions are documented in the Use Case Diagram deliverable.
-
 **Class Diagram**
 Core system classes include:
  - PetRecord
@@ -59,8 +51,6 @@ Core system classes include:
  - Inventory
  - CustomerPortal
  - Employee, Staff, Vet
-
-Relationships and multiplicity are shown in the class diagram design.
 
 **Process Followed**
 1. Conducted stakeholder interviews to identify inefficiencies 
