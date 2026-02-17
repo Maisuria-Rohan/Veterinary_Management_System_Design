@@ -1,10 +1,10 @@
-# Veterinary_Management_System_Design
-**Overview**
+## Veterinary_Management_System_Design
+# Overview
 This project presents the full analysis and design of a Veterinary Information and Management System built to improve data centralization, appointment scheduling, billing accuracy, inventory tracking, and customer communication for a veterinary clinic.
 
 The goal was to design an integrated system that reduces manual errors, improves efficiency, and supports secure data management.
 
-**Problem**:
+Problem
 The clinic relied on spreadsheets, manual scheduling, and disconnected systems. 
 This created:
  - Medical record inconsistencies
@@ -13,7 +13,7 @@ This created:
  - Poor inventory tracking
  - Limited data accessibility
 
-**Solution**
+Solution
 The proposed VIMS system centralizes:
  - Pet medical records
  - Appointment scheduling
@@ -21,7 +21,7 @@ The proposed VIMS system centralizes:
  - Inventory management
  - Customer communication
 
-**Key Features Designed**
+Key Features Designed
  - Role-based access for Staff, Vet, and Pet Owner
  - Centralized pet medical record management
  - Online appointment booking with reminders
