@@ -4,8 +4,7 @@ This project presents the full analysis and design of a Veterinary Information a
 
 The goal was to design an integrated system that reduces manual errors, improves efficiency, and supports secure data management.
 
-Problem
-The clinic relied on spreadsheets, manual scheduling, and disconnected systems. 
+# Problem - The clinic relied on spreadsheets, manual scheduling, and disconnected systems. 
 This created:
  - Medical record inconsistencies
  - Missed or double-booked appointments
@@ -13,8 +12,7 @@ This created:
  - Poor inventory tracking
  - Limited data accessibility
 
-Solution
-The proposed VIMS system centralizes:
+# Solution - The proposed VIMS system centralizes:
  - Pet medical records
  - Appointment scheduling
  - Billing and payment tracking
