@@ -36,12 +36,14 @@ Actors:
  - Vet
  - Staff
 
+
 Main Use Cases:
  - Manage Pet Records
  - Book Appointment
  - Manage Inventory
  - Bill Customer
  - Customer Communication
+
 
 Class Diagram
 Core system classes include:
@@ -51,6 +53,7 @@ Core system classes include:
  - Inventory
  - CustomerPortal
  - Employee, Staff, Vet
+
 
 # Process Followed
 1. Conducted stakeholder interviews to identify inefficiencies 
