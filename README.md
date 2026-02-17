@@ -4,7 +4,8 @@ This project presents the full analysis and design of a Veterinary Information a
 
 The goal was to design an integrated system that reduces manual errors, improves efficiency, and supports secure data management.
 
-# Problem - The clinic relied on spreadsheets, manual scheduling, and disconnected systems. 
+# Problem 
+The clinic relied on spreadsheets, manual scheduling, and disconnected systems. 
 This created:
  - Medical record inconsistencies
  - Missed or double-booked appointments
@@ -12,14 +13,15 @@ This created:
  - Poor inventory tracking
  - Limited data accessibility
 
-# Solution - The proposed VIMS system centralizes:
+# Solution 
+The proposed VIMS system centralizes:
  - Pet medical records
  - Appointment scheduling
  - Billing and payment tracking
  - Inventory management
  - Customer communication
 
-Key Features Designed
+# Key Features Designed
  - Role-based access for Staff, Vet, and Pet Owner
  - Centralized pet medical record management
  - Online appointment booking with reminders
@@ -27,8 +29,8 @@ Key Features Designed
  - Real-time inventory tracking with low-stock alerts
  - Secure authentication and data validation
 
-**System Architecture and Design**
-**Use Case Diagram**
+# System Architecture and Design
+Use Case Diagram
 Actors:
  - Pet Owner
  - Vet
@@ -41,7 +43,7 @@ Main Use Cases:
  - Bill Customer
  - Customer Communication
 
-**Class Diagram**
+Class Diagram
 Core system classes include:
  - PetRecord
  - Appointment
@@ -50,18 +52,18 @@ Core system classes include:
  - CustomerPortal
  - Employee, Staff, Vet
 
-**Process Followed**
+# Process Followed
 1. Conducted stakeholder interviews to identify inefficiencies 
 2. Defined business needs and objectives 
 3. Developed functional and non-functional requirements 
 4. Created UML use case and class diagrams 
 5. Revised diagrams based on design feedback 
 
-**What I Learned**
+# What I Learned
  - Translating business problems into structured system requirements
  - Writing formal SRS documentation
  - Designing UML use case and class diagrams
  - Understanding multiplicity, associations, and system boundaries
  - Importance of centralized data architecture
 
-**Evidence and Documentation**
+# Evidence and Documentation
