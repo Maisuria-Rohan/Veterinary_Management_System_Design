@@ -1,10 +1,10 @@
-## Veterinary_Management_System_Design
-# Overview
+# Veterinary Management System Design
+## Overview
 This project presents the full analysis and design of a Veterinary Information and Management System built to improve data centralization, appointment scheduling, billing accuracy, inventory tracking, and customer communication for a veterinary clinic.
 
 The goal was to design an integrated system that reduces manual errors, improves efficiency, and supports secure data management.
 
-# Problem 
+## Problem 
 The clinic relied on spreadsheets, manual scheduling, and disconnected systems. 
 This created:
  - Medical record inconsistencies
@@ -13,7 +13,7 @@ This created:
  - Poor inventory tracking
  - Limited data accessibility
 
-# Solution 
+## Solution 
 The proposed VIMS system centralizes:
  - Pet medical records
  - Appointment scheduling
@@ -21,7 +21,7 @@ The proposed VIMS system centralizes:
  - Inventory management
  - Customer communication
 
-# Key Features Designed
+## Key Features Designed
  - Role-based access for Staff, Vet, and Pet Owner
  - Centralized pet medical record management
  - Online appointment booking with reminders
@@ -29,15 +29,17 @@ The proposed VIMS system centralizes:
  - Real-time inventory tracking with low-stock alerts
  - Secure authentication and data validation
 
-# System Architecture and Design
-Use Case Diagram
-Actors:
+## System Architecture and Design
+### Use Case Diagram
+<img width="1856" height="1304" alt="Screenshot 2026-02-18 at 4 19 32 PM" src="https://github.com/user-attachments/assets/08d913a5-ebe2-4800-8e05-0c1c2ab66100" /><br>
+
+**Actors**:
  - Pet Owner
  - Vet
  - Staff
 
 
-Main Use Cases:
+**Main Use Cases**:
  - Manage Pet Records
  - Book Appointment
  - Manage Inventory
@@ -45,8 +47,10 @@ Main Use Cases:
  - Customer Communication
 
 
-Class Diagram
-Core system classes include:
+### Class Diagram
+<img width="2256" height="1350" alt="Screenshot 2026-02-18 at 4 19 51 PM" src="https://github.com/user-attachments/assets/34337ff2-d4df-42de-8d7e-23138b453dfc" /><br>
+
+**Core system classes include**:
  - PetRecord
  - Appointment
  - Bill
@@ -55,22 +59,22 @@ Core system classes include:
  - Employee, Staff, Vet
 
 
-# Process Followed
+## Process Followed
 1. Conducted stakeholder interviews to identify inefficiencies 
 2. Defined business needs and objectives 
 3. Developed functional and non-functional requirements 
 4. Created UML use case and class diagrams 
 5. Revised diagrams based on design feedback 
 
-# What I Learned
+## What I Learned
  - Translating business problems into structured system requirements
  - Writing formal SRS documentation
  - Designing UML use case and class diagrams
  - Understanding multiplicity, associations, and system boundaries
  - Importance of centralized data architecture
 
-# Evidence and Documentation
-[VIMS_FinalReport.docx.pdf](https://github.com/user-attachments/files/25379261/VIMS_FinalReport.docx.pdf)
-[Class and Use Class Diagram .pdf](https://github.com/user-attachments/files/25379264/Class.and.Use.Class.Diagram.pdf)
+## Evidence and Documentation
+[VIMS_FinalReport.docx.pdf](https://github.com/user-attachments/files/25379261/VIMS_FinalReport.docx.pdf)<br>
+[Class and Use Class Diagram .pdf](https://github.com/user-attachments/files/25379264/Class.and.Use.Class.Diagram.pdf)<br>
 
 
