@@ -52,11 +52,8 @@ The use case diagram defines system behavior from the perspective of external ac
 ### System Behavior
 **Key interactions include**:<br>
 Manage Pet Record<br>
- This is a generalized use case. It includes:
    - Manage Medication Record
    - Manage Vaccination Record<br>
-  
- This reduces redundancy and improves modular design.<br>
 
 Book Appointment<br>
   - Includes schedule checking and can trigger follow-up reminders.<br>
