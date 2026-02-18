@@ -70,3 +70,7 @@ Core system classes include:
  - Importance of centralized data architecture
 
 # Evidence and Documentation
+[VIMS_FinalReport.docx.pdf](https://github.com/user-attachments/files/25379261/VIMS_FinalReport.docx.pdf)
+[Class and Use Class Diagram .pdf](https://github.com/user-attachments/files/25379264/Class.and.Use.Class.Diagram.pdf)
+
+
